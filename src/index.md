@@ -1,14 +1,16 @@
 # Reading
 
-- 2024: [Numbers Don't Lie](./numbers-dont-lie.md)
 - 2024: [Queueing Systems: Volume 1: Theory](./queueing-systems-vol-1.md)
 - 2024: [The Design of Everyday Things](./the-design-of-everyday-things.md)
 - 2024: [Understanding Software Dynamics](./understanding-software-dynamics.md)
 - 2024: [Postgres Internals](./postgres-internals.md)
 - 2024: [Rumi](./rumi.md)
+- 2024: [Think Again](./think-again.md)
 
 ## Read
 
+- 2024: [The Unix Programming Environment](./the-unix-programming-environment.md)
+- 2024: [Numbers Don't Lie](./numbers-dont-lie.md)
 - 2024: [The Hundred-Page Machine Learning Book](./the-hundred-page-machine-learning-book.md)
 - 2024: [Fundamentals of Software Architecture](./fundamentals-of-software-architecture.md)
 - 2024: [Rust for Rustaceans](./rust-for-rustaceans.md)
